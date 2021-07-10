@@ -2,11 +2,11 @@
 
 This repository contains **different controllers based on various plants**. All experiments were made in MATLAB and are numbered as:
 
-1. Adaptative control
-2. Parameter estimation based on least squares
-3. Self-tuning regulator
-4. Non-linear modelling based on [MOAB by Microsoft](https://microsoft.github.io/moab/)
-5. Extended Kalman filter
+1. [Adaptative control](https://github.com/debOliveira/Control-Systems/tree/main/Exp%201%20-%20Adaptative%20control)
+2. [Parameter estimation based on least squares](https://github.com/debOliveira/Control-Systems/tree/main/Exp%202%20-%20Parameter%20estimation)
+3. [Self-tuning regulator](https://github.com/debOliveira/Control-Systems/tree/main/Exp%203%20-%20Self%20tuning%20regulator)
+4. [Non-linear modelling](https://github.com/debOliveira/Control-Systems/tree/main/Exp%204%20-%20MOAB) based on [MOAB by Microsoft](https://microsoft.github.io/moab/)
+5. [Extended Kalman filter](https://github.com/debOliveira/Control-Systems/tree/main/Exp%205%20-%20Extended%20Kalman%20filter)
 6. Feedback linearization based on a Parrot Mambo model _(still ongoing)_
 
 Each experiment folder contains a script folder and the report PDF, HTML and MATLAB LiveScript (`.mlx`) file. 
