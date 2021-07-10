@@ -6,7 +6,7 @@
 
 ### Folder file tree
 
-```bash
+```
 .
 +-- mainLiveScript.html >> html readable file from live script
 +-- mainLiveScript.pdf >> pdf readable file from live script
