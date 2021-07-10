@@ -1,7 +1,7 @@
-##############################
-###### Folder file tree ######
-##############################
 
+### Folder file tree
+
+```
 .
 +-- report.pdf >> pdf readable file from report
 +-- Scripts/ 
@@ -12,3 +12,4 @@
 |   +-- freke3.m >> EKF for model 3
 |   +-- freke4.m >> EKF for model 4
 +-- pics/ >> high quality report pictures
+```
