@@ -7,7 +7,7 @@ This repository contains **different controllers based on various plants**. All 
 3. Self-tuning regulator
 4. Non-linear modelling based on [MOAB by Microsoft](https://microsoft.github.io/moab/)
 5. Extended Kalman filter
-6. Feedback linearization based on a Parrot Mambo model
+6. Feedback linearization based on a Parrot Mambo model _(still ongoing)_
 
 Each experiment folder contains a script folder and the report PDF, HTML and MATLAB LiveScript (`.mlx`) file. 
 
